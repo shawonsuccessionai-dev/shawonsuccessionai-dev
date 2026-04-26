@@ -2,8 +2,8 @@
 
 ## GitHub Stats
 
-![Shawon's GitHub stats](https://github-readme-stats.vercel.app/api?username=shawonsuccessionai-dev&show_icons=true&include_all_commits=true&rank_icon=github)
+![Shawon's GitHub stats](./profile/stats.svg)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shawonsuccessionai-dev&layout=compact)
+![Top Languages](./profile/top-langs.svg)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=shawonsuccessionai-dev)
